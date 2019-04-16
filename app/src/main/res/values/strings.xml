@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Smart City Navigator</string>
+    <string name="nearby">Nearby</string>
+    <string name="favourite">Saved</string>
+    <string name="account">Account</string>
+    <string name="logo">SmartCity Navigator</string>
+    <string name="slogan">know your city, travel easily</string>
+    <string name="nairobi">Nairobi</string>
+    <string name="mombasa">Mombasa</string>
+    <string name="eldoret">Eldoret</string>
+    <string name="kisumu">Kisumu</string>
+    <string name="thika">Thika</string>
+    <string name="nyeri">Nyeri</string>
+    <string name="nakuru">Nakuru</string>
+    <string name="malindi">Malindi</string>
+    <string name="naivasha">Naivasha</string>
+    <string name="flights">Flights</string>
+    <string name="hotels">Hotels</string>
+    <string name="holidays">Holidays</string>
+    <string name="setting">Setting</string>
+    <string name="events">Events</string>
+    <string name="map">Map</string>
+    <string name="distance">Distance</string>
+    <string name="kiambu">Kiambu</string>
+    <string name="label_desc">Description</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_tect">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin">SignIn</string>
+
+</resources>
